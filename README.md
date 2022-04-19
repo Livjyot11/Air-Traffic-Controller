@@ -1,5 +1,8 @@
+
+![](Images/Final%20Prototypes/Readouts%403x.png)
+
 ## Description
- 
+
 This system will use monitors, radars, radios and other special instruments to provide proper guidance to the flying aircrafts. In other words, it would provide ground controllers complete details of the flight that would help them in directing an aircraft while remaining on the ground, and can even provide advisory services to the non- controlled airspace.
 
 The main purpose and goal of the designed system is to make air travel completely safe by avoiding the risk of aircraft collisions with the increasing number of aircrafts that can fly safely at the same time. This system uses an aircraft navigation and communication system in constantly locating the plane with its speed and altitude for every individual aircraft that is flying. It would play an important role in managing air traffic with their monitors, and help instructing the pilots to maintain a safe operation of the aircrafts.
