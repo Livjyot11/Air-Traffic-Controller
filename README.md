@@ -1,3 +1,5 @@
+![](images/Final Prototypes/Controls@3x.png)
+
 ## Description
  
 This system will use monitors, radars, radios and other special instruments to provide proper guidance to the flying aircrafts. In other words, it would provide ground controllers complete details of the flight that would help them in directing an aircraft while remaining on the ground, and can even provide advisory services to the non- controlled airspace.
