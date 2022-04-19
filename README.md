@@ -36,6 +36,6 @@ I have chosen this license because it is simple, permissive and optimized for de
 To conclude, the system has been designed by deeply studying and understanding the basic principles of ergonomics which will increase the quality, efficiency and productivity of the system as a whole. This simple schematic design is based on the virtual reality that is similar to the system in real world. But makes it a completely different for the ground controllers as it proves to provide a more safe and comfortable experience to its employees. Overall, the system’s hardware and software is designed in such a way that it would deal with every aspect of ergonomics and will be able to solve all the problems in the existing work environment.
 
 ## Contact
-Email: livjyots11.ca@gmail.com
+Email: livjyotsingh.ca@gmail.com
 
 Portfolio: https://livjyot.github.io/My-Portfolio/
